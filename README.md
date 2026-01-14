@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0018-4sum) |
+| [0152-maximum-product-subarray](https://github.com/piyushh-k/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/piyushh-k/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/piyushh-k/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
