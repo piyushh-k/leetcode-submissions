@@ -3,18 +3,16 @@
  * @return {number}
  */
 var maxProduct = function(nums) {
+    let maxP = -Infinity;
     let n = nums.length;
-    let maxP = 0;
-    if(n == 1){
-        return nums[0];
-    }
+    let pre = 1;
+    let suf = 1;
     for(let i = 0; i < n; i++){
-        let mult = 1;
-        for(let j = i; j < n; j++){
-            mult = mult * nums[j];
-            maxP = Math.max(mult , maxP);
-        }
+        if(pre == 0) pre = 1;
+        if(suf == 0) suf = 1;
+        pre = pre * nums[i];
+        suf = suf * nums[n-i-1];
+        maxP = Math.max(maxP , Math.max(pre , suf));
     }
-
     return maxP;
 };
