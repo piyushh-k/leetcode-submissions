@@ -45,10 +45,9 @@ class Solution {
                 continue;
             }
             if (nums[i] != nums[i+1]){
-                result = nums[i];
-                break;
+                return nums[i] ;
             }
         }
-        return result;
+        return nums[n-1];
     }
 }
