@@ -48,6 +48,6 @@ class Solution {
                 return nums[i] ;
             }
         }
-        return nums[n-1];
+        return nums[n-1];  // returns the last elem 
     }
 }
