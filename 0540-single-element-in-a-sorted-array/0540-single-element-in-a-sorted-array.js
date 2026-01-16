@@ -34,3 +34,21 @@ var singleNonDuplicate = function(nums) {
 //         }
 //     }
 // };
+
+//JAVA Linear Search
+class Solution {
+    public int singleNonDuplicate(int[] nums) {
+        int n = nums.length;
+        int result = 0;
+        for (int i = 0 ; i<n-1; i=i+2){
+            if (nums[i] == nums[i+1]){
+                continue;
+            }
+            if (nums[i] != nums[i+1]){
+                result = nums[i];
+                break;
+            }
+        }
+        return result;
+    }
+}
