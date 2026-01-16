@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/1580-shuffle-the-array) |
 | [2058-concatenation-of-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/2058-concatenation-of-array) |
@@ -30,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0018-4sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyushh-k/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Simulation
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -69,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/piyushh-k/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushh-k/leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
