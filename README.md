@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/piyushh-k/leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/piyushh-k/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/piyushh-k/leetcode-submissions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/piyushh-k/leetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0152-maximum-product-subarray](https://github.com/piyushh-k/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/piyushh-k/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/piyushh-k/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/piyushh-k/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyushh-k/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/piyushh-k/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/piyushh-k/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
@@ -96,5 +99,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/piyushh-k/leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/piyushh-k/leetcode-submissions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
