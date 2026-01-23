@@ -1,22 +1,24 @@
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
 var productExceptSelf = function(nums) {
     let n = nums.length;
-    let res = Array(n);
-    let pref = Array(n);
-    let post = Array(n);
-
-    pref[0] = 1;
-    for (let i = 1; i < n; i++) {
-        pref[i] = pref[i - 1] * nums[i - 1];
+    let pre = new Array(n);
+    let suf = new Array(n);
+    let res = new Array(n);
+    pre[0] = nums[0];
+    suf[n-1] = nums[n-1];
+    for(let i = 1; i < n; i++){
+        pre[i] = nums[i] * pre[i-1];
     }
-
-    post[n - 1] = 1;
-    for (let i = n - 2; i >= 0; i--) {
-        post[i] = post[i + 1] * nums[i + 1];
+    for(let i = n-2; i >= 0; i--){
+        suf[i] = nums[i] * suf[i+1];
     }
-
-    for (let i = 0; i < n; i++) {
-        res[i] = pref[i] * post[i];
+    res[0] = suf[1];
+    res[n-1] = pre[n-2];
+    for(let i = 1; i < n-1; i++){
+        res[i] = pre[i-1]*suf[i+1];
     }
-
     return res;
 };
