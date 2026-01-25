@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushh-k/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushh-k/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/piyushh-k/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyushh-k/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/piyushh-k/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/piyushh-k/leetcode-submissions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushh-k/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/piyushh-k/leetcode-submissions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/piyushh-k/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/piyushh-k/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 ## Greedy
 |  |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushh-k/leetcode-submissions/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
