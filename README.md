@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/piyushh-k/leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/piyushh-k/leetcode-submissions/tree/master/0940-fruit-into-baskets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/piyushh-k/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/piyushh-k/leetcode-submissions/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/piyushh-k/leetcode-submissions/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushh-k/leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
