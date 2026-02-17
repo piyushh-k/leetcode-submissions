@@ -12,13 +12,16 @@
 var reorderList = function(head) {
     let slow = head;
     let fast = head;
+    //find middle (slow will be middle in the end)
     while(fast && fast.next){
         slow = slow.next;
         fast = fast.next.next;
     }
-    let second = slow.next;
-    slow.next = null;
+    let second = slow.next; 
+    slow.next = null;   //break list into 2 halves
     let prev = null;
+
+    //reverse the second half
     while(second){
         let hold = second.next;
         second.next = prev;
@@ -27,6 +30,7 @@ var reorderList = function(head) {
     }
     second = prev;
     let first = head;
+    //now merge the two halves 
     while(second){
         let temp1 = first.next;
         let temp2 = second.next;
