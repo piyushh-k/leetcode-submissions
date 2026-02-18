@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/piyushh-k/leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/piyushh-k/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/piyushh-k/leetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/piyushh-k/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/piyushh-k/leetcode-submissions/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushh-k/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/piyushh-k/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/piyushh-k/leetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/piyushh-k/leetcode-submissions/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/piyushh-k/leetcode-submissions/tree/master/0953-reverse-only-letters) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/piyushh-k/leetcode-submissions/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/piyushh-k/leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/piyushh-k/leetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/piyushh-k/leetcode-submissions/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/piyushh-k/leetcode-submissions/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/piyushh-k/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
