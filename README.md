@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/piyushh-k/leetcode-submissions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushh-k/leetcode-submissions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/2058-concatenation-of-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/piyushh-k/leetcode-submissions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Two Pointers
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/piyushh-k/leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/piyushh-k/leetcode-submissions/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/piyushh-k/leetcode-submissions/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/piyushh-k/leetcode-submissions/tree/master/1603-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
