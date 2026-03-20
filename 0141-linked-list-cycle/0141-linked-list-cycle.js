@@ -10,13 +10,13 @@
  * @param {ListNode} head
  * @return {boolean}
  */
-var hasCycle = function(head) {
-    let fast = head;
+var hasCycle = function (head) {
     let slow = head;
-    while(fast && fast.next){
-        fast = fast.next.next;
+    let fast = head;
+    while (fast && fast.next) {
         slow = slow.next;
-        if(fast === slow) return true;
+        fast = fast.next.next;
+        if (slow == fast) return true
     }
     return false;
 };
